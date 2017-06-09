@@ -5,5 +5,10 @@ html{
 .theMessage{
   height: 5em;
   width: 10em;
-  background-color:orange; 
+  background-color:orange;
+}
+.messageTwo{
+  height: 5em;
+  width: 10em;
+  background-color: skyblue;
 }
